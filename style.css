@@ -1,0 +1,16 @@
+/*Ariane a ajouté style.css in Bootstrap style. Car dans html, il affiche <h1 class="text-center"> au lieu comme dans App.js <h1 className="text-center">*/
+.text-center{
+    text-align: center;
+}
+
+/*on peut fait comme ça, mais ce n'est pas pleinement variable
+.grey{                       
+    backgound-color: grey;
+} 
+.green{                       
+    backgound-color: green;
+}
+.blue{                       
+    backgound-color: blue;
+}
+ça ne marche pas*/
